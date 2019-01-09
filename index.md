@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: WanQi Zhao
 pdf: true
 ---
-# Wode __Ni__
+# WanQi Zhao
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.cs.cmu.edu/~woden" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
+<a href="http://stefaniezhao.xyz" style="margin-left:0.5em">http://stefaniezhao.xyz</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="woden@cs.cmu.edu" style="margin-left:0.5em">woden@cs.cmu.edu</a>
+<a href="stefaniezhao414@gmail.com" style="margin-left:0.5em">stefaniezhao414@gmail.com</a>
 </div>
 
 ## Education
