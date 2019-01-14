@@ -1,8 +1,4 @@
----
-layout: cv
-title: WanQi Zhao
-pdf: true
----
+
 # 赵婉淇
 
 <div id="webaddress">
