@@ -10,13 +10,13 @@ pdf: true
 <a href="http://stefaniezhao.xyz" style="margin-left:0.5em">http://stefaniezhao.xyz</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="qiqi_shawnee@163.com" style="margin-left:0.5em">qiqi_shawnee@163.com</a>
-<span>电话：18792767673</span> 
+<span style="color: black;margin-left: 1em;">电话：18792767673</span> 
 </div>
 
 ## 个人简介
-- An experienced programmer with five-year project experience involving in various types of projects, including the medical industry, the communications industry, and the petrochemical industry.
-- Mastering a variety of technologies, including front-end development, back-end development, database development, server operation and maintenance, etc.
-- Played multiple roles, such as project manager, BA, software architect, programmer, etc
+- 一个五年以上经验的开发，参与过多种类型的项目，包括互联网医疗，通信行业和资源行业
+- 掌握多种技术，包括前后端开发，服务器运维，数据库开发等
+- 担任过多种职位，包括项目经理，需求分析，软件架构师和软件开发等
 
 ## 学历
 
@@ -72,7 +72,7 @@ _软件实施工程师_<br>
 
 - 信息系统项目管理师
 
-### 英语四六级
+### __英语四六级__
 
 
 
