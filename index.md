@@ -1,5 +1,5 @@
 ---
-layout:
+layout: cv
 title: WanQi Zhao
 pdf: true
 ---
