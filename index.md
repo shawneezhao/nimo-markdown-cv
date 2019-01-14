@@ -36,8 +36,8 @@ _软件工程师_<br>
 > 互联网医疗，云诊断，线上阅片
 -   负责云平台、诊断公众号、Boss系统和数据可视化（Dashboard）的前端开发
 -   负责医疗图像的三维重建的前后台开发
-<br><br>
-_Angular ES6 Echarts.js Three.js Sass/Less Webpack Gulp Grunt Python MySQL Redis_ <br>
+
+技术栈：_Angular ES6 Echarts.js Three.js Sass/Less Webpack Gulp Grunt Python MySQL Redis_ 
 ### __陕西大道信息技术有限公司__ `2015.08 - 2017.08`
 _软件工程师_<br>
 > 系统集成，调度系统，工业自动化
@@ -45,17 +45,17 @@ _软件工程师_<br>
 -   负责所有项目的前端设计与开发
 -   负责项目人员管理系统、岗前考核系统两个混合APP的开发和打包
 -   参与所有项目的后台开发
--   参与或负责所有项目的需求设计和技术选型<br>
-<br>
-_Angular.js React.js Jquery Ionic Java Spring MVC Spring Boot MySQL PostgreSQL_<br>
+-   参与或负责所有项目的需求设计和技术选型
+
+技术栈：_Angular.js React.js Jquery Ionic Java Spring MVC Spring Boot MySQL PostgreSQL_
 ### __大唐软件股份有限公司__ `2012.11 - 2015.06`
 _软件实施工程师_<br>
 > 通信系统，资源管理，设备激活
 - 负责本地需求的开发，数据库开发和维护
 - 负责系统的需求调研，生成需求方案，完成接口的设计和对外协调
-- 负责服务器的维护和系统的布置和升级<br>
-<br>
-_Plsql Oracle Shell Java_ <br>
+- 负责服务器的维护和系统的布置和升级
+
+技术栈：_Plsql Oracle Shell Java_ 
 
 
 
