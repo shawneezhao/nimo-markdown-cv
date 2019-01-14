@@ -69,7 +69,9 @@ p strong {
 }
 
 em {
-	font-style: italic;
+    font-style: italic;
+    font-size: 80%;
+    font-weight: bold;
 }
 
 
